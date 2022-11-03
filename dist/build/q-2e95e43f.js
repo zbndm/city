@@ -1,4 +1,4 @@
-import{j as e,F as o}from"./q-0466d812.js";const a=[{text:"Getting Started",id:"getting-started",level:1},{text:"Ford GT40",id:"ford-gt40",level:2}],d={title:"Getting Started",meta:[],styles:[],links:[],frontmatter:{}},c={title:"Getting Started"};function r(n){const t=Object.assign({h1:"h1",pre:"pre",code:"code",h2:"h2",p:"p",a:"a"},n.components);return e(o,{children:[e(t.h1,{id:"getting-started",children:"Getting Started"}),`
+import{j as e,F as o}from"./q-2d9c1479.js";const a=[{text:"Getting Started",id:"getting-started",level:1},{text:"Ford GT40",id:"ford-gt40",level:2}],d={title:"Getting Started",meta:[],styles:[],links:[],frontmatter:{}},c={title:"Getting Started"};function r(n){const t=Object.assign({h1:"h1",pre:"pre",code:"code",h2:"h2",p:"p",a:"a"},n.components);return e(o,{children:[e(t.h1,{id:"getting-started",children:"Getting Started"}),`
 `,e(t.pre,{children:e(t.code,{children:`npm create qwik@latest
 `})}),`
 `,e(t.h2,{id:"ford-gt40",children:"Ford GT40"}),`
